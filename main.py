@@ -30,7 +30,6 @@ resources = {
     "coffee": 100,
 }
 
-# TODO 1. Asking user for his choice of coffee.
 
 profit = 0
 machine_on = True
